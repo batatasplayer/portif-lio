@@ -1,0 +1,40 @@
+.topnav{
+  background-color:#18a4c6;
+  overflow: hidden;
+  text-align:center;
+}
+.topnav a{
+  color:#2f2e30;
+  text-decoration: none;
+  padding: 14px 20px;
+  display:block;
+  float:left;
+  text-align:center;
+}
+.banner{
+  background-color:#39bbd4;
+  padding:200px;
+  margin-top:7px;
+  display: flex;
+  align-items:center
+}
+#foto{
+ height:300px
+}
+
+#proj{
+  background-color:#5ad2e3;
+  padding:200px
+}
+#sobremim{
+  padding:200px;
+  background-color:#;
+}
+#onda{
+  position: absolute;
+  top:555px;
+}
+#onda2{
+  position: absolute;
+  top:555px;
+}
